@@ -6,7 +6,7 @@ def post():
     url = "http://127.0.0.1:5000/get_answer"
     msg_json = {
       "message": {
-        "text": "你好"
+        "text": "糖尿病的治疗费用"
       },
       "userInfo": {
         "userId": 1

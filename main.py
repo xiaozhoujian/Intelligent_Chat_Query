@@ -29,4 +29,5 @@ def pre_dict(sentence, userId):
         answer = "\n".join(answer)
     else:
         answer = query.normal_query(sentence, userId)
+    print(answer)
     return answer

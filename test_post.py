@@ -6,7 +6,7 @@ def post():
     url = "https://chat.jojen.org/get_answer"
     msg_json = {
       "message": {
-        "text": "你好"
+        "text": "糖尿病的治疗费用"
       },
       "userInfo": {
         "userId": 1

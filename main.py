@@ -11,6 +11,7 @@ def pre_dict(sentence, userId):
     """
     answer = []
     problem, diseases, relationships = preprocess.process(sentence)
+    print(diseases, relationships)
     if diseases:
         for disease in diseases:
             if relationships:

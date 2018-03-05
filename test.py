@@ -34,6 +34,23 @@ def get_answer():
     return answer_json
 
 
+
+@app.route('/mi_answer', methods=['POST'])
+def mi_answer():
+    """
+
+    :return:
+    """
+    msg_json = request.json
+    if type(msg_json) is str:
+        msg_json = json.loads(msg_json)
+    sentence = msg_json["query"]
+    user_id = msg_json["session"]["user"]["user_id"]
+    answer = main.pre_dict(sentence, user_id)
+    answer_json = json.dumps({'answer': answer})
+    return answer_json
+
+
 if __name__ == '__main__':
     cur_path = os.path.split(os.path.realpath(__file__))[0]
     disease_path = cur_path + "/data/my_dictionary/disease.txt"

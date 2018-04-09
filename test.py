@@ -44,16 +44,16 @@ def mi_answer():
     if type(msg_json) is str:
         msg_json = json.loads(msg_json)
     sentence = msg_json["query"]
-    user_id = msg_json["session"]["user"]["user_id"]
-    answer = main.pre_dict(sentence, user_id)
+    # user_id = msg_json["session"]["user"]["user_id"]
+    answer = main.pre_dict(sentence, "1")
     return_json = {
       "version": "1.0",  # (string required)
       "session_attributes": {  # (jsobject optional) 持久化的内容可以放这
       },
       "response": {  # (jsobject required)
-        "open_mic": False,  # (Boolean optional)，指示客户端是否需要关闭mic, true，打开麦克风；false，关闭麦克风
+        "open_mic": True,  # (Boolean optional)，指示客户端是否需要关闭mic, true，打开麦克风；false，关闭麦克风
         "to_speak": {  # (jsobject required, 和directive 二选一，复杂的用directive，简单的用tospeak
-          "type": 0,  # (int required) TTS: 0, 1: Audio, 2: ssml
+          "type": 2,  # (int required) TTS: 0, 1: Audio, 2: ssml
           "text": answer  # (string required)
         },
         "to_display": {  # (jsobject optional)
@@ -80,6 +80,7 @@ def mi_answer():
         # }
         # ]
       },
+      "not_understand": False,
       "is_session_end": False  # (boolean required)e
     }
     return_json = json.dumps(return_json)

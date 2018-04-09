@@ -28,6 +28,10 @@ def pre_dict(sentence, userId):
                          ''')
         answer = "\n".join(answer)
     else:
-        answer = query.normal_query(sentence, userId)
+        call_sentence = ["打开智能医疗助手", "进入智能医疗助手", "打开医疗助手", "进入医疗助手"]
+        if sentence in call_sentence:
+            answer = "欢迎使用智能医疗助手，我能回答你关于疾病的相关问题！"
+        else:
+            answer = query.normal_query(sentence, userId)
     print(answer)
     return answer

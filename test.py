@@ -3,23 +3,9 @@ import main
 import os
 import json
 from flask import Flask, jsonify, request
+from preprocess import generate_sim_words
 
 app = Flask(__name__)
-
-tasks = [
-    {
-        'id': 1,
-        'title': u'OSPA',
-        'description': u'This is ospaf-api test',
-        'done': False
-    },
-    {
-        'id': 2,
-        'title': u'Garvin',
-        'description': u'I am garvin',
-        'done': False
-    }
-]
 
 
 @app.route('/get_answer', methods=['POST'])
@@ -60,25 +46,6 @@ def mi_answer():
           "type": 0,  # (int required) plainText: 0, 1: url of html, 2: native ui, 3: widgets
           "text": answer  # (string required)
         },
-        # "directives": [  # 例如播放音频, 和tospeak 二选一，复杂的用directive，简单的用tospeak
-        # {
-        #   "type": "audio",  # (string required) audio, tts
-        #   "audio_item": {  # (object optional)
-        #     "stream": {   # (object required)
-        #       "token": "iiiiiiiiiii",   # (string optional)
-        #       "url": "http: #xxxxx.mp3",  # (string required)
-        #       "offset_in_milliseconds": 0   # (int optional)
-        #     }
-        #   }
-        # },
-        # {
-        #   "type": "tts",   # (string required) audio, tts
-        #   "tts_item": {  # (object required)
-        #       "type": "text",  # (string required), tts type
-        #       "text": "xxxx"  # (string optional), tts text
-        #   }
-        # }
-        # ]
       },
       "is_session_end": False  # (boolean required)e
     }
@@ -86,6 +53,7 @@ def mi_answer():
     return return_json
 
 
+sim_dict = generate_sim_words()
 if __name__ == '__main__':
     cur_path = os.path.split(os.path.realpath(__file__))[0]
     disease_path = cur_path + "/data/my_dictionary/disease.txt"

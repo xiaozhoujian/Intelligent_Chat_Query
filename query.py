@@ -2,6 +2,7 @@ from py2neo import Graph
 import requests
 import json
 
+
 def disease_query(disease, relationship):
     """
     This function is used to make a specific query in neo4j database.
@@ -20,7 +21,7 @@ def disease_query(disease, relationship):
             for value in values:
                 answer += value + " "
     else:
-        answer = "抱歉，我们暂时还没有这方面的数据"
+        answer = "抱歉，我们暂时还没有关于%s的%s这方面的数据" % (disease, relationship)
     return answer
 
 

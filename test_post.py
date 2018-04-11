@@ -1,6 +1,7 @@
 import json
 import requests
-import preprocess
+import main
+
 
 def post():
     url = "https://chat.jojen.org/get_answer"
@@ -53,5 +54,5 @@ def mi_post():
 
 
 if __name__ == '__main__':
-    preprocess.generate_relationships_file()
+    main.train_fasttext()
 

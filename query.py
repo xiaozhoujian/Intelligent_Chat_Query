@@ -8,9 +8,17 @@ def disease_query(disease, relationship):
     This function is used to make a specific query in neo4j database.
     :param disease: string, the name of disease, for example "糖尿病"
     :param relationship: string, the query relationship about the disease, for example "费用"
-    :return: string, answer about the query, for example "糖尿病的费用为糖尿病的费用为：根据不同医院，收费标准不一致，市三甲医院约1000-3000元 "
+    :return: string, answer about the query, for example "根据不同医院，收费标准不一致，市三甲医院约1000-3000元 "
     """
     graph = Graph("http://localhost:7474/db/data", username="neo4j", password="456897231")
+    if relationship == "宜吃" or relationship == "忌吃":
+        relationship = relationship + "|" + relationship + "食物"
+    elif relationship == '护理':
+        relationship = relationship + "|" + "提示"
+    elif relationship == '所属科室':
+        relationship += "|挂号科室"
+    elif relationship == '常用检查':
+        relationship += '|相关检查'
     contents = graph.run("MATCH (n{name:\"%s\"})-[r:%s]-(n2) RETURN n2.name" % (disease, relationship)).data()
     # print(contents)
     # answer = disease + "的" + relationship + "为："
@@ -21,16 +29,19 @@ def disease_query(disease, relationship):
             for value in values:
                 answer += value + " "
     else:
+        file = open("./data/miss_data.txt", 'a')
+        file.write(disease + "\t" + "relationship" + "\n")
+        file.close()
         answer = "抱歉，我们暂时还没有关于%s的%s这方面的数据" % (disease, relationship)
     return answer
 
 
 def normal_query(sentence, user_id):
     """
-
-    :param sentence:
-    :param user_id:
-    :return:
+    This function is used to query the normal chat sentence and send it to tuling post.
+    :param sentence: string, the sentence send by user
+    :param user_id: int, the id of user
+    :return: string, the answer of the corresponding sentence
     """
     post_data = {
         "perception": {

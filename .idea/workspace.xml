@@ -2,52 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14192ef7-7cf0-47a7-8ef2-19ae82601bb9" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/question/不良反应.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/question/不适宜人群.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/question/专科分类.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/question/临床意义.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/question/介绍.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/question/低于正常值时（分析结果）.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/question/分析结果.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/question/别名.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/question/好发人群.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/question/宜吃.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/question/宜吃食物.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/question/常用检查.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/question/常用药品.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/question/常见并发症.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/question/常见症状.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/question/忌吃.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/question/忌吃食物.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/question/所属科室.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/question/护理.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/question/挂号科室.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/question/提示.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/question/是否医保.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/question/是否空腹.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/question/检查分类.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/question/检查过程.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/question/正常值.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/question/正常值（分析结果）.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/question/治疗方式.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/question/注意事项.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/question/相关检查.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/question/相关疾病.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/question/相关症状.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/question/相关科室.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/question/简介.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/question/菜谱.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/question/费用.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/question/适用性别.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/question/阳性（分析结果）.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/question/阴性（分析结果）.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/question/高于正常值时（分析结果）.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/README.url" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/question/disease/宜吃食物.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/question/disease/忌吃食物.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/question/disease/挂号科室.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/question/disease/提示.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/question/disease/相关检查.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hs_err_pid95430.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hs_err_pid95445.log" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test.py" afterPath="$PROJECT_DIR$/post_entry.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/my_dictionary/relationship_dictionary.txt" afterPath="$PROJECT_DIR$/data/my_dictionary/relationship_dictionary.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/question/disease/别名.txt" afterPath="$PROJECT_DIR$/data/question/disease/别名.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/question/disease/好发人群.txt" afterPath="$PROJECT_DIR$/data/question/disease/好发人群.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/question/disease/宜吃.txt" afterPath="$PROJECT_DIR$/data/question/disease/宜吃.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/question/disease/常用检查.txt" afterPath="$PROJECT_DIR$/data/question/disease/常用检查.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/question/disease/常用药品.txt" afterPath="$PROJECT_DIR$/data/question/disease/常用药品.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/question/disease/常见并发症.txt" afterPath="$PROJECT_DIR$/data/question/disease/常见并发症.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/question/disease/常见症状.txt" afterPath="$PROJECT_DIR$/data/question/disease/常见症状.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/question/disease/忌吃.txt" afterPath="$PROJECT_DIR$/data/question/disease/忌吃.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/question/disease/所属科室.txt" afterPath="$PROJECT_DIR$/data/question/disease/所属科室.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/question/disease/护理.txt" afterPath="$PROJECT_DIR$/data/question/disease/护理.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/question/disease/是否医保.txt" afterPath="$PROJECT_DIR$/data/question/disease/是否医保.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/question/disease/治疗方式.txt" afterPath="$PROJECT_DIR$/data/question/disease/治疗方式.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/question/disease/相关疾病.txt" afterPath="$PROJECT_DIR$/data/question/disease/相关疾病.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/question/disease/简介.txt" afterPath="$PROJECT_DIR$/data/question/disease/简介.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/question/disease/菜谱.txt" afterPath="$PROJECT_DIR$/data/question/disease/菜谱.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/question/disease/费用.txt" afterPath="$PROJECT_DIR$/data/question/disease/费用.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/同义词.txt" afterPath="$PROJECT_DIR$/data/同义词.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.py" afterPath="$PROJECT_DIR$/main.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/preprocess.py" afterPath="$PROJECT_DIR$/preprocess.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/query.py" afterPath="$PROJECT_DIR$/query.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.py" afterPath="$PROJECT_DIR$/test.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_post.py" afterPath="$PROJECT_DIR$/test_post.py" />
     </list>
     <ignored path="Intell_Chat.iws" />
@@ -61,15 +47,16 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Intelligent_Chat_Query$preprocess.coverage" NAME="preprocess Coverage Results" MODIFIED="1523238859199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Intelligent_Chat_Query$preprocess.coverage" NAME="preprocess Coverage Results" MODIFIED="1523341695197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Intell_Chat$preprocess.coverage" NAME="preprocess Coverage Results" MODIFIED="1519826585413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Intell_Chat$Segment.coverage" NAME="Segment Coverage Results" MODIFIED="1519802670924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Intell_Chat$test.coverage" NAME="test Coverage Results" MODIFIED="1519960196979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Intelligent_Chat_Query$test.coverage" NAME="test Coverage Results" MODIFIED="1523242766721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Intelligent_Chat_Query$test_post.coverage" NAME="test_post Coverage Results" MODIFIED="1523242762431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Intelligent_Chat_Query$test.coverage" NAME="test Coverage Results" MODIFIED="1523438289402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Intelligent_Chat_Query$test_post.coverage" NAME="test_post Coverage Results" MODIFIED="1523433601581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Intell_Chat$query.coverage" NAME="query Coverage Results" MODIFIED="1519892525079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Intell_Chat$test_post.coverage" NAME="test_post Coverage Results" MODIFIED="1519961607894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Intell_Chat$main.coverage" NAME="main Coverage Results" MODIFIED="1519960530583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Intelligent_Chat_Query$main.coverage" NAME="main Coverage Results" MODIFIED="1523431861096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Intell_Chat$generate_dictionary.coverage" NAME="generate_dictionary Coverage Results" MODIFIED="1519810801801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -80,36 +67,14 @@
     <favorites_list name="Intell_Chat" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.57864815">
+    <splitter split-orientation="horizontal" split-proportion="0.50905216">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="preprocess.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/preprocess.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="382">
-                  <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
-                  <folding>
-                    <element signature="e#0#12#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="relationship_dictionary.txt" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/data/my_dictionary/relationship_dictionary.txt">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="60">
-                  <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
+          <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/main.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="450">
-                  <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+                <state relative-caret-position="1140">
+                  <caret line="76" column="12" selection-start-line="76" selection-start-column="12" selection-end-line="76" selection-end-column="12" />
                   <folding>
                     <element signature="e#0#12#0" expanded="true" />
                   </folding>
@@ -117,11 +82,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="README.url" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/data/README.url">
+          <file leaf-file-name="generate_sim_sentences.py" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/generate_sim_sentences.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <state relative-caret-position="420">
+                  <caret line="28" column="83" selection-start-line="28" selection-start-column="83" selection-end-line="28" selection-end-column="83" />
                   <folding />
                 </state>
               </provider>
@@ -131,11 +96,21 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="test_post.py" pinned="false" current-in-tab="false">
+          <file leaf-file-name="query.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/query.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="270">
+                  <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="test_post.py" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/test_post.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="596">
-                  <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+                <state relative-caret-position="-4">
+                  <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
                   <folding>
                     <element signature="e#0#11#0" expanded="true" />
                   </folding>
@@ -143,66 +118,26 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="_pydev_execfile.py" pinned="false" current-in-tab="false">
-            <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+          <file leaf-file-name="preprocess.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/preprocess.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="255">
-                  <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-                  <folding />
+                <state relative-caret-position="120">
+                  <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+                  <folding>
+                    <element signature="e#0#11#0" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="query_nohup.out" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/query_nohup.out">
+          <file leaf-file-name="post_entry.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/post_entry.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="test.py" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/test.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="221">
-                  <caret line="38" column="33" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
+                <state relative-caret-position="506">
+                  <caret line="63" column="28" selection-start-line="63" selection-start-column="28" selection-end-line="63" selection-end-column="28" />
                   <folding>
                     <element signature="e#0#12#0" expanded="true" />
                   </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="query.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/query.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-124">
-                  <caret line="7" column="66" selection-start-line="7" selection-start-column="66" selection-end-line="7" selection-end-column="66" />
-                  <folding>
-                    <element signature="e#0#24#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="disease.txt" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/data/my_dictionary/disease.txt">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="214">
-                  <caret line="2168" column="1" selection-start-line="2168" selection-start-column="1" selection-end-line="2168" selection-end-column="1" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="dict.txt" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/data/my_dictionary/dict.txt">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="975">
-                  <caret line="65" column="2" selection-start-line="65" selection-start-column="1" selection-end-line="65" selection-end-column="2" />
-                  <folding />
                 </state>
               </provider>
             </entry>
@@ -235,11 +170,15 @@
         <option value="$PROJECT_DIR$/data/my_dictionary/relationship_dictionary.txt" />
         <option value="$PROJECT_DIR$/data/question/不良反应.txt" />
         <option value="$PROJECT_DIR$/generate_dictionary.py" />
-        <option value="$PROJECT_DIR$/preprocess.py" />
         <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/data/fast_text_train.txt" />
+        <option value="$PROJECT_DIR$/data/同义词.txt" />
+        <option value="$PROJECT_DIR$/test_post.py" />
+        <option value="$PROJECT_DIR$/post_entry.py" />
+        <option value="$PROJECT_DIR$/preprocess.py" />
         <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/query.py" />
-        <option value="$PROJECT_DIR$/test_post.py" />
+        <option value="$PROJECT_DIR$/generate_sim_sentences.py" />
       </list>
     </option>
   </component>
@@ -279,6 +218,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches">
+        <subPane />
+      </pane>
       <pane id="Scope">
         <subPane subId="Problems" />
         <subPane subId="Project Files">
@@ -288,6 +230,14 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT USER_OBJECT="Intell_Chat">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <subPane subId="Default">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -312,42 +262,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Intelligent_Chat_Query" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Intelligent_Chat_Query" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Intelligent_Chat_Query" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Intelligent_Chat_Query" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my_dictionary" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
-      </pane>
-      <pane id="Scratches">
-        <subPane />
       </pane>
     </panes>
   </component>
@@ -356,16 +271,17 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/data" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/data/question" />
       <recent name="$PROJECT_DIR$/data/my_dictionary" />
       <recent name="$PROJECT_DIR$" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/data" />
     </key>
   </component>
   <component name="RunManager" selected="Python.test">
@@ -400,7 +316,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Intell_Chat" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/post_entry.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -678,8 +594,8 @@
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Python.test" />
         <item index="1" class="java.lang.String" itemvalue="Python.test_post" />
-        <item index="2" class="java.lang.String" itemvalue="Python.preprocess" />
-        <item index="3" class="java.lang.String" itemvalue="Python.main" />
+        <item index="2" class="java.lang.String" itemvalue="Python.main" />
+        <item index="3" class="java.lang.String" itemvalue="Python.preprocess" />
         <item index="4" class="java.lang.String" itemvalue="Python.query" />
       </list>
     </recent_temporary>
@@ -701,13 +617,13 @@
     <frame x="0" y="23" width="1920" height="1057" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15867944" sideWeight="0.4884393" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16027689" sideWeight="0.4884393" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27564767" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27564767" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.157082" sideWeight="0.5115607" order="2" side_tool="true" content_ui="tabs" />
@@ -739,90 +655,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/data/README.url">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hs_err_pid95445.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hs_err_pid95430.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/anaconda/lib/python3.5/site-packages/requests/api.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1470">
-          <caret line="98" column="4" selection-start-line="98" selection-start-column="4" selection-end-line="98" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/anaconda/lib/python3.5/urllib/parse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11250">
-          <caret line="752" column="4" selection-start-line="752" selection-start-column="4" selection-end-line="752" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/anaconda/lib/python3.5/site-packages/flask/wrappers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1410">
-          <caret line="98" column="8" selection-start-line="98" selection-start-column="8" selection-end-line="98" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/anaconda/lib/python3.5/json/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4035">
-          <caret line="270" column="4" selection-start-line="270" selection-start-column="4" selection-end-line="270" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/query.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
-          <folding>
-            <element signature="e#0#24#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/my_dictionary/disease.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/my_dictionary/dict.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="975">
@@ -848,14 +680,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/my_dictionary/dict.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="975">
-          <caret line="65" column="2" selection-start-line="65" selection-start-column="1" selection-end-line="65" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/question/疾病的介绍.txt" />
     <entry file="file://$PROJECT_DIR$/data/question/疾病的正常值.txt" />
     <entry file="file://$PROJECT_DIR$/../../my_workspace/test_api.py">
@@ -876,13 +700,6 @@
     <entry file="file://$PROJECT_DIR$/data/question/简介.txt" />
     <entry file="file://$PROJECT_DIR$/Segment.py" />
     <entry file="file://$PROJECT_DIR$/generate_dictionary.py" />
-    <entry file="file://$PROJECT_DIR$/data/my_dictionary/relationship.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/anaconda/lib/python3.5/site-packages/requests/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -934,7 +751,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="11250">
           <caret line="752" column="4" selection-start-line="752" selection-start-column="4" selection-end-line="752" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -962,10 +778,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/query_nohup.out">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/mark.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/README.url">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/data/my_dictionary/disease.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="214">
           <caret line="2168" column="1" selection-start-line="2168" selection-start-column="1" selection-end-line="2168" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/my_dictionary/dict.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5234161">
+          <caret line="65" column="2" selection-start-line="65" selection-start-column="1" selection-end-line="65" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/my_dictionary/relationship.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -986,7 +850,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/README.url">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/stopwords.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="80" column="2" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda/lib/python3.5/genericpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/同义词.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/miss_data.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -994,44 +904,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/query_nohup.out">
+    <entry file="file://$PROJECT_DIR$/data/question/disease/费用.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="214">
+          <caret line="774" column="6" selection-start-line="774" selection-start-column="0" selection-end-line="774" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+    <entry file="file://$PROJECT_DIR$/data/question/disease/别名.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state relative-caret-position="285">
+          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/my_dictionary/relationship_dictionary.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="11" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/fast_text_train.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17134">
+          <caret line="14172" column="14" selection-start-line="14172" selection-start-column="14" selection-end-line="14172" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/preprocess.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+        <state relative-caret-position="120">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
           <folding>
-            <element signature="e#0#12#0" expanded="true" />
+            <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/my_dictionary/relationship_dictionary.txt">
+    <entry file="file://$PROJECT_DIR$/post_entry.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        <state relative-caret-position="506">
+          <caret line="63" column="28" selection-start-line="63" selection-start-column="28" selection-end-line="63" selection-end-column="28" />
           <folding>
             <element signature="e#0#12#0" expanded="true" />
           </folding>
@@ -1040,31 +958,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/query.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-124">
-          <caret line="7" column="66" selection-start-line="7" selection-start-column="66" selection-end-line="7" selection-end-column="66" />
-          <folding>
-            <element signature="e#0#24#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="270">
+          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test_post.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="596">
-          <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+        <state relative-caret-position="-4">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
+    <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="38" column="33" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
+        <state relative-caret-position="1140">
+          <caret line="76" column="12" selection-start-line="76" selection-start-column="12" selection-end-line="76" selection-end-column="12" />
           <folding>
             <element signature="e#0#12#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generate_sim_sentences.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="83" selection-start-line="28" selection-start-column="83" selection-end-line="28" selection-end-column="83" />
+          <folding />
         </state>
       </provider>
     </entry>

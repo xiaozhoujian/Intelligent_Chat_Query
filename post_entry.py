@@ -3,13 +3,18 @@ import main
 import os
 import json
 from flask import Flask, jsonify, request
-from preprocess import generate_sim_words
+from preprocess import generate_sim_words, load_dict
+import fasttext
 
 app = Flask(__name__)
 
 
 @app.route('/get_answer', methods=['POST'])
 def get_answer():
+    """
+    This function is used to process the data from web
+    :return: Json, json that contains answer with format {answer: }
+    """
     msg_json = request.json
     if type(msg_json) is str:
         msg_json = json.loads(msg_json)
@@ -23,8 +28,8 @@ def get_answer():
 @app.route('/mi_answer', methods=['POST'])
 def mi_answer():
     """
-
-    :return:
+    This function is used to process the data from Xiaomi sound box
+    :return: Json, json that contains answer.
     """
     msg_json = request.json
     if type(msg_json) is str:
@@ -54,11 +59,10 @@ def mi_answer():
     return return_json
 
 
+# Initialize the global variable
 sim_dict = generate_sim_words()
+classifier = fasttext.load_model("./data/fasttext.model.bin", label_prefix="__label__")
 if __name__ == '__main__':
-    cur_path = os.path.split(os.path.realpath(__file__))[0]
-    disease_path = cur_path + "/data/my_dictionary/disease.txt"
-    relationship_path = cur_path + "/data/my_dictionary/relationship_dictionary.txt"
-    jieba.load_userdict(disease_path)
-    jieba.load_userdict(relationship_path)
+    # Load the dict
+    load_dict()
     app.run(debug=True)
